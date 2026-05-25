@@ -1,6 +1,10 @@
 **Educational Purposes Only**
 
-**3432** is a global revolution party native to the U.S., and our goal is to fight fascism head-on. This is a webpage for 3432's U.S. branch.
+**3432** is a global revolution party native to the U.S., and our goal is to fight fascism head-on.
+
+```
+This is a webpage for 3432's U.S. branch.
+```
 
 # We do that by:
 ```
