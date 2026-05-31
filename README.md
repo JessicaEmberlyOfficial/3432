@@ -72,6 +72,6 @@ Enbyphobes
 
 You can use the link [APITAFiles](https://www.apitafiles.com/apitafiles) to access the database, and we use **QR codes** to avoid takedowns so use this link [QRScanner](https://www.qrscanner.net) to open the link from a screenshot.
 
-If you want to join–contact [me](https://www.facebook.com/share/18bnFWHZCV/).
+If you want to join–contact [me](https://www.facebook.com/share/18bnFWHZCV/), or fill out this [form](https://forms.gle/sMUR5whP6ZFuVgJJ6) and I will get back to you.
 
 If you are affected by the regime please message us at: [apitafilms@gmail.com](mailto:apitafilms@gmail.com)
